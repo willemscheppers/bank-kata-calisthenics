@@ -6,7 +6,7 @@ Your task is to show them that your TDD-full and your new-age programming langua
 
 ## Requirements
 
-Write a class `Account` that offers the following methods:
+Write a class `com.cegeka.Account` that offers the following methods:
 
 * `void deposit(int)`
 * `void withdraw(int)`
@@ -31,7 +31,7 @@ Write a class `Account` that offers the following methods:
 An example statement would be:
 
 ```bash
-Date        Amount  Balance
+Date        com.cegeka.Amount  Balance
 24.12.2015   +500      500
 23.8.2016    -100      400
 ```

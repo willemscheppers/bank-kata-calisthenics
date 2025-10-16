@@ -1,4 +1,4 @@
-class Account:
+class com.cegeka.Account:
     def deposit(self, amount):
         pass
 
